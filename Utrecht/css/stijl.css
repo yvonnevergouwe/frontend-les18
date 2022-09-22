@@ -10,9 +10,9 @@ background-color: seagreen;
 }
 .head{
 height: 100px;
-width: 300px;
+width: 400px;
 position: absolute;
-left: 30%;
+left: 20%;
 }
 #utr1 {
 filter: opacity(30%);
